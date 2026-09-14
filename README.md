@@ -1,1 +1,1 @@
-# TripPilot-AI---A-Multi-Agent-Travel-Partner
+# TripPilot-AI A Multi Agent Travel Partner
